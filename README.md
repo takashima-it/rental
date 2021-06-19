@@ -1,3 +1,3 @@
 # rental
-masterの中のpro
+issue-1のなかのpro(ブランチ)
 new
